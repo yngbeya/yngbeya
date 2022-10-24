@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yngbeya
+- 👀 I’m interested in Frontend Web Development 
+- 🌱 I’m currently learning nodeJS
+- 📫 How to reach me Timo_#0638
